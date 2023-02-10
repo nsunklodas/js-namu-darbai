@@ -1,0 +1,30 @@
+#meow {
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#inputs {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+input {
+    width: 50%;
+    margin: 2px;
+}
+
+table {
+    width: 80%;
+    height: auto;
+}
+
+table tr, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
